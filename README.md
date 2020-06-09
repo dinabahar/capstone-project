@@ -36,7 +36,7 @@ The data is appropriate because, according to Wikipedia, Food.com is a platform 
 
 ---
 ### Methodology
-<img src='assets/flow.png' style="center" alt="fatigue" width="100%" height="100%"> maybe change the deets after ppt.
+<img src='assets/flow.png' style="center" alt="fatigue" width="100%" height="100%">
 
 The flowchart above gives an overview of how I built the recipe recommender. Starting with the Food.com data, I binarize the `tags` columns so I can calculate the pairwise distances. As a refresher on the pairwise distance metric, 
 
