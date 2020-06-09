@@ -14,7 +14,7 @@ Leave it to RECiPE ROULETTE to recommend you one recipe at a time, based on the 
 
 ---
 ### Goal
-Build a recipe recommender for users to input the recipe that they liked and get 1 recommendation at a time, like Google's "I'm Feeling Lucky" button.
+Build a recipe recommender for users to input the recipe that they liked and get 1 recommendation at a time, inspired by Google's "I'm Feeling Lucky" button.
 
 I decided to build an item-based recommender system because users' tastes will affect what they rate highly. What one user would give a 5-star rating, might not be what another user with opposing taste would give.
 
